@@ -33,4 +33,4 @@ Download the Windows executable: [`my_program_v0.1.0.exe`](https://www.notion.so
   - [`repo_tour.md`](./docs/repo_tour.md) - Overview of the repository structure.
 
 ## Issues & Feature Requests
-Have an idea, found a bug, or need help? [`Open an issue`](https://github.com/pranavdharkar/templates_repository/issues/new/choose).
+Have an idea, found a bug, or need help? [`Open an issue`](https://github.com/pranavdharkar/templates_repository/issues/new?template=Blank+issue).
