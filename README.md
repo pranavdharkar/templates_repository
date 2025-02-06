@@ -2,27 +2,27 @@
 
 A template repository to kickstart new projects with a structured setup and essential configurations.
 
-## 1. Repository Overview
+## Repository Overview
 For a quick tour of repository, check out [`repo_tour.md`](docs/repo_tour.md).
 
-## 2. Applications
+## Applications
 
 - Designed for scalable and maintainable projects.
 - Can be used across various domains.
 
-## 3. Application Preview
+## Application Preview
 
 Include screenshots, GIFs, or links to demonstrate the application in action.
 
-## 4. v0.1.0
+## v0.1.0
 
 Download the Windows executable: [`my_program_v0.1.0.exe`](https://www.notion.so/ralsum/my_program_v1.0.0.exe)
 
-## 5. How to Build and Run
+## How to Build and Run
 
-### 5.1 Prerequisites 
+### Prerequisites 
 
-## 6. Explore More
+## Explore More
 
 - [`docs/`](./docs/) - Directory of detailed documentation:
   - [`bugs.md`](./docs/bugs.md) - Known bugs (all versions).
@@ -32,5 +32,5 @@ Download the Windows executable: [`my_program_v0.1.0.exe`](https://www.notion.so
   - [`flowchart.md`](./docs/flowchart.md) - Diagrams explaining architecture and processes (updated periodically).
   - [`repo_tour.md`](./docs/repo_tour.md) - Overview of the repository structure.
 
-## 7. Issues & Feature Requests
+## Issues & Feature Requests
 Have an idea, found a bug, or need help? [`Open an issue`](https://github.com/your-username/your-repo/issues).
