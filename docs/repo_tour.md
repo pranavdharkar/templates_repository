@@ -26,12 +26,12 @@ Tags (e.g., **`v0.1.0`**) mark specific releases and are read-only.
 ## Key Files & Directories
 
 - **[`README.md`](../README.md)** - Project overview.
-- **[`docs/`](./docs/)** - Directory of detailed documentation:
-  - **[`dev_journal.md`](./docs/dev_journal.md)** - Future feature ideas, Known bugs, versions history.
-  - **[`dev_process.md`](./docs/dev_process.md)** - Standard development process.
-  - **[`flowchart.md`](./docs/flowchart.md)** - Diagrams explaining architecture and processes.
-  - **[`repo_tour.md`](./docs/repo_tour.md)** - *You are here!*
+- **[`docs/`](../docs/)** - Directory of detailed documentation:
+  - **[`dev_journal.md`](./dev_journal.md)** - Future feature ideas, Known bugs, versions history.
+  - **[`dev_process.md`](./dev_process.md)** - Standard development process.
+  - **[`flowchart.md`](./flowchart.md)** - Diagrams explaining architecture and processes.
+  - **[`repo_tour.md`](./repo_tour.md)** - *You are here!*
 
 ## Issues & Feature Requests
 
-Have an idea, found a bug, or need help? [Open an issue](https://github.com/pranavdharkar/Simple_Calculator/issues/new?template=Blank+issue).
+Have an idea, found a bug, or need help? [Open an issue](https://github.com/pranavdharkar/templates_repository/issues/new?template=Blank+issue).

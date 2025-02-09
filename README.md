@@ -5,6 +5,11 @@ A template repository to kickstart new projects with a structured setup and esse
 ## Repository Overview
  For a quick tour of repository, check out [`repo_tour.md`](docs/repo_tour.md).
 
+## Applications
+
+- Designed for scalable and maintainable projects.
+- Can be used across various domains.
+
 ## Application Preview
 
 Include screenshots, GIFs, or links to demonstrate the application in action.
